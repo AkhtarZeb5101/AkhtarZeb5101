@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkhtarZeb5101
-- 👀 I’m interested in Flutter App developing
-- 🌱 I’m currently learning Flutter App developing
+- 👀 I’m interested in Flutter/React App developing
+- 🌱 I’m currently learning Flutter/React App developing
 - 💞️ I’m looking to collaborate on android and IOS developing
 - 📫 How to reach me, azaib5101@gmail.com
 
