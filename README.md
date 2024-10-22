@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkhtarZeb5101
-- 👀 I’m interested in Flutter/React-Native App development
-- 🌱 I’m currently learning Flutter/React-Native App development
-- 💞️ I’m looking to collaborate on android and IOS development
+- 👀 I’m interested in React-Native App development.
+- 🌱 I’m currently learning React-Native App development.
+- 💞️ I’m looking to collaborate on Websites and Mobile App development.
 - 🍂 I'm a beginner level MERN-Stack Developer with Dev-Ops.
 - 📫 How to reach me, azaib5101@gmail.com
 
