@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkhtarZeb5101
-- 👀 I’m interested in React-Native App development.
-- 🌱 I’m currently learning React-Native App development.
-- 💞️ I’m looking to collaborate on Websites and Mobile App development.
+- 👀 I’m interested in Front-End Web Development.
+- 🌱 I’m currently learning ReactJS and NodeJS.
+- 💞️ I’m looking to collaborate on Websites Development.
 - 🍂 I'm a beginner level MERN-Stack Developer with Dev-Ops.
 - 📫 How to reach me, azaib5101@gmail.com
 
