@@ -15,8 +15,8 @@
 ---
 
 ### 🌱 Current Learning
-- **ReactJS** for building dynamic user interfaces.
-- **NodeJS** for creating scalable back-end services.
+- ![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) for building dynamic user interfaces.
+- ![NodeJS](https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=node.js&logoColor=white) for creating scalable back-end services.
 
 ---
 
@@ -37,6 +37,6 @@
   <img src="https://komarev.com/ghpvc/?username=AkhtarZeb5101&color=blue" alt="Profile Views" />
 </p>
 
----
-
+<!--
 AkhtarZeb5101/AkhtarZeb5101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
