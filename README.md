@@ -6,7 +6,7 @@
 
 ---
 
-### 👀 About Me
+## 👀 About Me
 - 🔥 **Front-End Enthusiast** with a knack for crafting sleek web interfaces.
 - 🚀 Currently diving deep into **ReactJS** and **NodeJS**.
 - 🌱 **Aspiring MERN-Stack Developer** with a touch of **DevOps**.
@@ -14,21 +14,23 @@
 
 ---
 
-### 🌱 What I'm Learning
+## 🌱 What I'm Learning
 - ![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) for building dynamic user interfaces.
 - ![NodeJS](https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=node.js&logoColor=white) for creating scalable back-end services.
 
 ---
 
-### 📫 Get in Touch
+## 📫 Get in Touch
 - **Email**: [azaib5101@gmail.com](mailto:azaib5101@gmail.com)
 
 ---
 
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkhtarZeb5101&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+## 🚀 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarZeb5101&layout=compact&theme=radical" alt="Top Languages" />
 </p>
