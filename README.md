@@ -33,10 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarZeb5101&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkhtarZeb5101&color=blue" alt="Profile Views" />
-</p>
-
 <!--
 AkhtarZeb5101/AkhtarZeb5101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
