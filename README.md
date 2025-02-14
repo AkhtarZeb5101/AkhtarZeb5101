@@ -21,7 +21,8 @@
 ---
 
 ## 📫 Get in Touch
-- **Email**: [azaib5101@gmail.com](mailto:azaib5101@gmail.com)
+- **Gmail**: [azaib5101@gmail.com](mailto:azaib5101@gmail.com)
+- **Outlook**: [azaib5101@outlook.com](mailto:azaib5101@outlook.com)
 
 ---
 
