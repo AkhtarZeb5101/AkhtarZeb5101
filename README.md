@@ -1,26 +1,26 @@
-<h1 align="center">Hi there, I'm Akhtar Zeb! 👋</h1>
+<h1 align="center">Hey there, I'm Akhtar Zeb! 👋</h1>
 
 <p align="center">
-  <a href="mailto:azaib5101@gmail.com">📫 Contact Me</a>
+  <a href="mailto:azaib5101@gmail.com">📫 Let's Connect</a>
 </p>
 
 ---
 
 ### 👀 About Me
-- **Passionate** about Front-End Web Development.
-- **Learning** ReactJS and NodeJS to enhance my skills.
-- **Beginner-level** MERN-Stack Developer with a touch of DevOps.
-- **Looking to collaborate** on Website Development projects.
+- 🔥 **Front-End Enthusiast** with a knack for crafting sleek web interfaces.
+- 🚀 Currently diving deep into **ReactJS** and **NodeJS**.
+- 🌱 **Aspiring MERN-Stack Developer** with a touch of **DevOps**.
+- 🤝 Open to collaboration on exciting **Web Development** projects.
 
 ---
 
-### 🌱 Current Learning
+### 🌱 What I'm Learning
 - ![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) for building dynamic user interfaces.
 - ![NodeJS](https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=node.js&logoColor=white) for creating scalable back-end services.
 
 ---
 
-### 💌 How to Reach Me
+### 📫 Get in Touch
 - **Email**: [azaib5101@gmail.com](mailto:azaib5101@gmail.com)
 
 ---
