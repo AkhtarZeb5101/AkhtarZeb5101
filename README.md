@@ -19,7 +19,6 @@
 **Frontend Development:**
 
 ![react](https://img.shields.io/badge/react-1DA1F2?style=for-the-badge&logo=react&logoColor=white) 
-![react](https://img.shields.io/badge/reactnative-1DA1F2?style=for-the-badge&logo=react&logoColor=white) 
 ![next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![tailwind](https://img.shields.io/badge/tailwindcss-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![mui](https://img.shields.io/badge/MUI-blue?style=for-the-badge&logo=mui&logoColor=white) 
@@ -51,8 +50,8 @@
 ---
 
 ## 📫 Get in Touch
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][azaib5101@gmail.com](mailto:azaib5101@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][azaib5101@outlook.com](mailto:azaib5101@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azaib5101@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:azaib5101@outlook.com)
 
 ---
 
