@@ -1,4 +1,6 @@
-<h1 align="center">Hey there, I'm Akhtar Zeb! 👋</h1>
+![head](https://github.com/AkhtarZeb5101/AkhtarZeb5101/blob/main/LinkedIn%20Cover.jpg)
+
+<!-- <h1 align="center">Hey there, I'm Akhtar Zeb! 👋</h1> -->
 
 <p align="center">
   <a href="mailto:azaib5101@gmail.com">📫 Let's Connect</a>
