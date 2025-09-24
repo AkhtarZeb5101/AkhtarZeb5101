@@ -1,4 +1,4 @@
-![head](https://github.com/AkhtarZeb5101/AkhtarZeb5101/blob/main/LinkedIn%20Cover.jpg)
+ <h1 align="center">Hey there, I'm Akhtar Zeb Bacha! 👋</h1>
 
 <div align="center">
 
@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -33,7 +32,6 @@
 - 🎯 Goal: To become a versatile **IT SUPPORT ENGINEER** with strong **DevOps** expertise
 
 
----
 
 <div align="center">
 
@@ -111,7 +109,7 @@ Building robust solutions with modern tech stack
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -170,7 +168,7 @@ learning_path:
 </tr>
 </table>
 
----
+
 
 <div align="center">
 
@@ -218,7 +216,7 @@ Showcasing real-world solutions and innovations
 </tr>
 </table>
 
----
+
 
 <div align="center">
 
@@ -246,7 +244,7 @@ Tracking my coding journey and contributions 📈
 </div>
 
 
----
+
 
 <div align="center">
 
@@ -256,7 +254,7 @@ Tracking my coding journey and contributions 📈
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -266,7 +264,7 @@ Tracking my coding journey and contributions 📈
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -308,7 +306,7 @@ Building expertise through continuous learning
 </tr>
 </table>
 
----
+
 
 <div align="center">
 
@@ -347,7 +345,7 @@ Beyond the technical skills - what drives me
 </tr>
 </table>
 
----
+
 
 
 
@@ -372,25 +370,15 @@ Open to opportunities, mentorship, and exciting projects
 
 </div>
 
----
+
 
 <div align="center">
 
-## 💖 Support My Professional Journey
-
-Every star and follow motivates continued growth and contribution! ⭐
-
-<img src="https://komarev.com/ghpvc/?username=AkhtarZeb5101&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
 ### "Building solutions, one line of code at a time! Innovation through dedication." ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 
 </div>
 
----
+
 
 <div align="center">
 <sub>💝 Crafted with passion by <strong>Akhtar Zeb Bacha</strong> | 🚀 Fresh CS Graduate ready to make an impact!</sub>
