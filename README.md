@@ -22,7 +22,7 @@
 
 
 - 🎓 **Fresh Computer Science Graduate** from University of Swat (GPA: 3.50/4.00)
-- 💼 **IT Support & System Administration Professional** with 3+ years hands-on experience
+- 💼 **IT Support & System Administration Professional** with 3+ years hands-on personal learning and implementation experience
 - 🛠️ **Full-Stack Developer** specializing in **React.js**, **Laravel**, and **MySQL**
 - 🚀 Recently completed **Front-End Software Engineering Internship** at Skyscanner (via Forage)
 - 🌱 Currently mastering **DevOps**, **Cloud Technologies (Azure)**, and **Advanced System Administration**
