@@ -53,7 +53,6 @@ Building robust solutions with modern tech stack
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 </details>
 
@@ -187,7 +186,7 @@ Showcasing real-world solutions and innovations
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**🎯 Final Year Project | Jul 2024 - Sep 2024**
+**🎯 Final Year Project | Jul 2025 - Sep 2025**
 
 - 🛒 **Full-stack POS system** with comprehensive retail modules
 - 🔐 **Role-based authentication** using Spatie Permission
