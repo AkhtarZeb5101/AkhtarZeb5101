@@ -106,7 +106,7 @@ CGPA: **3.50/4.00**
 
 | Project | Summary | Technologies or context |
 | --- | --- | --- |
-| [KhazanaPOS — Point-of-Sale System](https://github.com/AkhtarZeb5101) | Final-year project for sales, inventory, customer and supplier management, reports, analytics, role-based access control, and email notifications. Presented at a Science, Arts & IT Exhibition and secured a Top 5 position. | Laravel, PHP, ReactJS, MySQL, Bootstrap, XAMPP |
+| **KhazanaPOS — Point-of-Sale System** | Final-year project for sales, inventory, customer and supplier management, reports, analytics, role-based access control, and email notifications. Presented at a Science, Arts & IT Exhibition and secured a Top 5 position. | Laravel, PHP, ReactJS, MySQL, Bootstrap, XAMPP |
 | Personal Portfolio | Responsive portfolio for presenting skills, projects, and professional experience through a clean, interactive interface. | ReactJS, Vite, JavaScript |
 | Al-Azhar Public School Madyan Swat SMS | Semester project for learning and school-management workflows. | ASP.NET Core MVC |
 | Expense Tracker — Wallet App | Practical application for recording and reviewing daily expenses. | ASP.NET Core MVC |
