@@ -24,7 +24,7 @@ I am a **Computer Science graduate from the University of Swat** with **2+ years
 
 I am skilled in **Windows/Linux administration, Active Directory, Microsoft 365, VMware, VirtualBox, TCP/IP, DNS, DHCP, VPN, ITIL-aligned incident handling, ticket logging, prioritization, escalation, SLA-aware resolution, and technical documentation**. I also have working exposure to **Git, PowerShell, Docker, Bash, Microsoft Azure, and remote support tools including AnyDesk, TeamViewer, and RDP**.
 
-I am currently strengthening my capabilities in **Microsoft Intune, Microsoft Power BI, and Microsoft Entra ID** through self-guided labs. I am known for structured troubleshooting, clear documentation, professional communication, and dependable user-first support. I am currently seeking **IT Analyst, IT Support, Desktop Support, or Service Desk opportunities in Saudi Arabia**.
+I am currently strengthening my capabilities in **Microsoft Intune, Microsoft Power BI, and Microsoft Entra ID** through self-guided labs. I am known for structured troubleshooting, clear documentation, professional communication, and dependable user-first support. I am currently seeking **IT Analyst, IT Support, Desktop Support, or Service Desk opportunities internationally**, including remote, relocation, and cross-border roles.
 
 - 🎓 **BS Computer Science** from the **University of Swat** — CGPA: **3.50/4.00**
 - 🖥️ Current positioning: **IT Analyst, Desktop Support & Systems Administration**
@@ -33,7 +33,7 @@ I am currently strengthening my capabilities in **Microsoft Intune, Microsoft Po
 - 🧪 Enterprise support training through **Suvastu Tech, Sybrid Private Limited, and Datacom**
 - 💻 Additional development background in **React.js, Laravel, PHP, MySQL, ASP.NET Core MVC, Git, and Docker**
 - 🌱 Developing skills in **Microsoft Intune, Power BI, Entra ID, cloud administration, cybersecurity, and automation**
-- 🇸🇦 **Open to relocating to Saudi Arabia** and exploring opportunities in Riyadh, Jeddah, and across the Kingdom
+- 🌍 **Open to international opportunities**, including remote roles and relocation opportunities in Saudi Arabia, Europe, the Gulf, and other global markets
 - 🤝 Open to connecting with recruiters, hiring managers, and IT operations professionals
 
 ## 🛠 Technology Arsenal
@@ -250,15 +250,17 @@ The relevant provider or institution remains the authority for current syllabi, 
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-<a href="https://github.com/AkhtarZeb5101"><img src="https://github-readme-stats.vercel.app/api?username=AkhtarZeb5101&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Akhtar Zeb Bacha's GitHub Stats" width="48%"/></a>
-<a href="https://github.com/AkhtarZeb5101"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarZeb5101&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%"/></a>
+<a href="https://github.com/AkhtarZeb5101"><img src="https://github-readme-stats-fast.vercel.app/api?username=AkhtarZeb5101&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Akhtar Zeb Bacha's GitHub Stats" width="48%"/></a>
+<a href="https://github.com/AkhtarZeb5101"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkhtarZeb5101&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%"/></a>
 </div>
 
 <div align="center">
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=AkhtarZeb5101&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<a href="https://github.com/AkhtarZeb5101"><img src="https://img.shields.io/github/followers/AkhtarZeb5101?style=for-the-badge&logo=github&label=GitHub%20Followers" alt="GitHub followers"/></a>
+<a href="https://github.com/AkhtarZeb5101"><img src="https://img.shields.io/badge/GitHub-Explore_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub profile"/></a>
+<a href="https://github.com/AkhtarZeb5101?tab=repositories"><img src="https://img.shields.io/badge/Public_Repositories-View-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories"/></a>
 
 </div>
 
@@ -288,7 +290,7 @@ Strong technical support combines accurate diagnosis with empathy, documentation
 
 <div align="center">
 
-Open to **IT Analyst, IT Support, Desktop Support, Service Desk, Technical Support, System Administration, Technical Operations, and digital operations opportunities**, including roles in Saudi Arabia.
+Open to **IT Analyst, IT Support, Desktop Support, Service Desk, Technical Support, System Administration, Technical Operations, and digital operations opportunities worldwide**, including remote, relocation, and cross-border roles.
 
 <br><br>
 
@@ -296,7 +298,7 @@ Open to **IT Analyst, IT Support, Desktop Support, Service Desk, Technical Suppo
 
 <br><br>
 
-**📍 Based in:** Swat District, Khyber Pakhtunkhwa, Pakistan · **🇸🇦 Open to:** Saudi Arabia · **🌐 Languages:** Pashto, Urdu, English
+**📍 Based in:** Swat District, Khyber Pakhtunkhwa, Pakistan · **🌍 Open to:** International opportunities · **🌐 Languages:** Pashto, Urdu, English
 
 </div>
 
